@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625211067270",
+    "project_id": "my-lord-d3e5a",
+    "storage_bucket": "my-lord-d3e5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625211067270:android:195dfc7210fab0849e3a07",
+        "android_client_info": {
+          "package_name": "com.matchingham.mylord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625211067270-lbs86d86288u18c8iunpok0lu4qmocl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBglUlrQZUk7z-PRhCq4dkO8pEcSwD2YK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625211067270-lbs86d86288u18c8iunpok0lu4qmocl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
